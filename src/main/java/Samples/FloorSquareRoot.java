@@ -15,7 +15,6 @@ public class FloorSquareRoot {
                 end = mid - 1;
             }
         }
-
         System.out.println("floorSqrt(" + x + ") = " + ans);
         return ans;
     }
